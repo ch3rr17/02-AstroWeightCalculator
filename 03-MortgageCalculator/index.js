@@ -28,7 +28,7 @@ $(document).ready(function(){
     
     //Conditional statement if monthly payment is NaN
     if(isNaN(monthlyPayment)){
-        $("#result").text("Please provide a valid entry");
+        $("#result").text("Please provide a valid entry.");
     }
     else{
         $("#result").text("Your monthly payment is: $" + monthlyPayment);
