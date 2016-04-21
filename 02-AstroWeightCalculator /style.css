@@ -1,0 +1,27 @@
+body{
+			
+	margin: 0 auto;
+	width: 980px;
+	font-family: Arial;
+}
+#container{
+	margin: 0 auto;
+	margin-top: 10px;
+	width: 980px;
+	padding: 10px;
+		    
+}
+#result{
+	background-color: #BBB7B7;
+	color: white;
+	border: 1px solid;
+	padding: 4px;
+}
+button{
+	background-color: #008CBA;
+	color: #FFFFFF;
+	display: inline-block;
+	border: none;
+	padding: 10px;
+
+}
